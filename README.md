@@ -9,21 +9,18 @@ By the end of this course, you’ll be well-equipped with the knowledge of web d
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Install React, NPM and Redux 
-<LI>Setup of Webpack 2 
-<LI>Leverage flexbox to create responsible style sheets 
-<LI>Complex Dependency Management in modern web applications with NPM 
-<LI>Building your code with Webpack 
-<LI>Exploring front-end libraries 
-<LI>Styling your application 
-<LI>Linting and formatting your application </LI></UL></DIV>
+<LI>Build appealing websites with the Bootstrap framework
+<LI>Build a to-do list application with Node.js and MongoDB 
+<LI>Test your applications with Mocha
+<LI>Create a single page application with jQuery and AJAX
+<LI>Deploy applications in Docker containers </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for anyone who wants to learn web development, whether you’ve never written a line of code in your life or you’ve already written code in other languages and want to learn how to create modern looking web pages.
 ### Technical Requirements
-This course has the following software requirements:<br/>
+This course has the following requirements:<br/>
 Minimum Hardware Requirements
 
 For successful completion of this course, students will require the computer systems with at least the following:
